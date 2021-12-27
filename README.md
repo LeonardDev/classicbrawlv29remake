@@ -81,6 +81,11 @@ Client -
 * Github: [@CrazorCLB](https://github.com/CrazorCLB)
 * Discord: Crazor#7395
 
+👤 **Icaro**
+
+* Github: [@Icaro072](https://github.com/Icaro072)
+* Discord: TheIke#1606
+
 👤 **SaVok**
 
 * Github: [@SavokBS](https://github.com/SavokBS)
@@ -88,7 +93,7 @@ Client -
 
 👤 **Root**
 
-* Github: [@CrazorCLB](https://github.com/root-7325)
+* Github: [@root-7325](https://github.com/root-7325)
 * Discord: Misha#6027
 
 Special thanks to:
@@ -100,7 +105,7 @@ Special thanks to:
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/Classic-Brawl/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/crossfireTeam/classicbrawlv29remake/issues).
 
 ## Show your support
 
